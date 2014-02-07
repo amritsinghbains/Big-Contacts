@@ -1,0 +1,64 @@
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\Bin\Debug\Background.png
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.dll
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.pdb
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\Bin\Debug\AppManifest.xaml
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.xap
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\obj\Debug\App.g.i.cs
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\obj\Debug\ContactDetails.g.i.cs
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\obj\Debug\MainPage.g.i.cs
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\obj\Debug\sdkContactsCS.g.resources
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\obj\Debug\sdkContactsCS.dll
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\obj\Debug\sdkContactsCS.pdb
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\obj\Debug\XapCacheFile.xml
+C:\Users\Amz Singh\Desktop\contacts\C#\sdkContactsCS\obj\Debug\sdkContactsCS.csprojResolveAssemblyReference.cache
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\Bin\Debug\Background.png
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.dll
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.pdb
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\Bin\Debug\AppManifest.xaml
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.xap
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\obj\Debug\sdkContactsCS.csprojResolveAssemblyReference.cache
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\obj\Debug\App.g.i.cs
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\obj\Debug\ContactDetails.g.i.cs
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\obj\Debug\MainPage.g.i.cs
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\obj\Debug\sdkContactsCS.g.resources
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\obj\Debug\sdkContactsCS.dll
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\obj\Debug\sdkContactsCS.pdb
+C:\Users\Amz Singh\Desktop\Big Contacts\C#\sdkContactsCS\obj\Debug\XapCacheFile.xml
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\Bin\Debug\Background.png
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.dll
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.pdb
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\obj\Debug\sdkContactsCS.csprojResolveAssemblyReference.cache
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\obj\Debug\App.g.i.cs
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\obj\Debug\ContactDetails.g.i.cs
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\obj\Debug\MainPage.g.i.cs
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\obj\Debug\sdkContactsCS.g.resources
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\obj\Debug\sdkContactsCS.dll
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\obj\Debug\sdkContactsCS.pdb
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\Bin\Debug\AppManifest.xaml
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.xap
+C:\Users\Amrit Singh\Desktop\Big Contacts\Big Contacts 3.2\C#\sdkContactsCS\obj\Debug\XapCacheFile.xml
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\Bin\Debug\Background.png
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.dll
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.pdb
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\Bin\Debug\AppManifest.xaml
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\Bin\Debug\sdkContactsCS.xap
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\obj\Debug\sdkContactsCS.csprojResolveAssemblyReference.cache
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\obj\Debug\App.g.i.cs
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\obj\Debug\ContactDetails.g.i.cs
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\obj\Debug\MainPage.g.i.cs
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\obj\Debug\sdkContactsCS.g.resources
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\obj\Debug\sdkContactsCS.dll
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\obj\Debug\sdkContactsCS.pdb
+C:\Users\Amrit Singh\Desktop\Big Contacts 3.4\C#\sdkContactsCS\obj\Debug\XapCacheFile.xml
